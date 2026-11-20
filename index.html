@@ -1,0 +1,89 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Geographic Expansion &amp; Site Selection — Snow Pack</title>
+  <meta name="description" content="Rank metro x merchant-category white space on Snowflake: a Streamlit app scores real US Census category demand against your coverage gap on governed data, with a verifier that refuses unsupported claims — plus a Cortex Agent you can explore in Snowsight." />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="hero">
+    <div class="wrap">
+      <p class="eyebrow">SNOW PACK · FINANCIAL SERVICES · PAYMENTS</p>
+      <h1>Geographic Expansion &amp; Site Selection</h1>
+      <p class="lede">A payments processor decides <em>where to grow next</em>: an app ranks every metro &times; merchant-category cell by white-space opportunity &mdash; where category demand is strong but your merchant coverage is still thin &mdash; grounded in governed data, with a verifier that refuses an unsupported claim &mdash; with a Cortex Agent you can explore in Snowsight.</p>
+      <div class="cta">
+        <a class="btn primary" href="try/">Try it &mdash; no account</a>
+        <a class="btn" href="https://github.com/sfc-gh-jsoliz/sfguide-site-selection">View the repo</a>
+      </div>
+      <p class="trust">Synthetic geography and coverage. Real US Census demand is a free Marketplace add-on; the browser Try page is an illustrative, client-side preview, not live inference.</p>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <section class="band">
+      <h2>The problem</h2>
+      <p>Every acquirer knows its current book. The hard question is the <em>white space</em>: which metros and verticals are growing fast where you&rsquo;ve barely penetrated? This pack ranks every metro &times; merchant-category cell by opportunity &mdash; real category demand meeting your coverage gap &mdash; and writes the expansion note from governed data only, with a verification step that catches anything unsupported. The difference between a hunch and a target an expansion committee will sign off.</p>
+    </section>
+
+    <section class="steps">
+      <article>
+        <h3>01 / See</h3>
+        <p>A ranked metro &times; category table &mdash; penetration, white-space dollars, demand growth, and a computed <strong>opportunity score</strong> &mdash; with the top expansion targets highlighted and a one-page verified note per run.</p>
+      </article>
+      <article>
+        <h3>02 / Try</h3>
+        <p>Explore in your browser on synthetic data &mdash; no account, no install. Or run one SQL script in your own account to build it all on fully synthetic tables.</p>
+      </article>
+      <article>
+        <h3>03 / Deploy</h3>
+        <p>Mount the free Financial Data Package from the Marketplace, run <code>setup.sql</code>, and the same app ranks real US Census category demand against your coverage. Adapt to your settlement data with Cortex Code.</p>
+      </article>
+    </section>
+
+    <section class="band">
+      <h2>A look inside</h2>
+      <figure class="shot">
+        <img src="assets/site-selection-1.png" alt="Streamlit-in-Snowflake app showing a ranked metro by merchant-category table with penetration, white-space dollars, and opportunity score" />
+        <figcaption>Streamlit-in-Snowflake example &mdash; ranked metro&times;category opportunity</figcaption>
+      </figure>
+      <figure class="shot">
+        <img src="assets/site-selection-2.png" alt="Top opportunity scores: ranked metro by category bars with white-space volume and penetration KPIs" />
+        <figcaption>Ranked metro &times; category white-space opportunity &mdash; governed semantic view (Cortex Analyst), sample data</figcaption>
+      </figure>
+    </section>
+
+    <section class="band">
+      <h2>How it works</h2>
+      <ol class="how">
+        <li><strong>Semantic view</strong> &mdash; governed business meaning over one wide benchmark (grain = metro &times; category); Cortex Analyst answers natural-language questions against it.</li>
+        <li><strong>Opportunity score</strong> &mdash; <code>max(category demand growth %, 0) &times; (1 &minus; penetration)</code>: strong demand meeting a coverage gap ranks highest.</li>
+        <li><strong>Grounded draft</strong> &mdash; the model writes the note under DATA RULES: copy the ranked figures exactly, no estimates, no hedging, no outside benchmarks.</li>
+        <li><strong>Verifier</strong> &mdash; a second pass checks every claim against the fact pack and flags the note Verified or Needs review.</li>
+      </ol>
+    </section>
+
+    <section class="band">
+      <h2>The data story</h2>
+      <p>This is a <strong>hybrid</strong> pack, and it says so honestly. The <em>demand</em> signal is <strong>real</strong>: US Census Advance Retail Sales by category, free on the Snowflake Marketplace. The <em>geography and coverage</em> &mdash; metros, population, income, and this processor&rsquo;s penetration &mdash; are <strong>synthetic</strong>, because there is no free demographics or POI source in-account. Real demographics (Census ACS) and points of interest (Overture) are paid Marketplace add-ons; the pack is built so you swap them in with no change downstream.</p>
+    </section>
+
+    <section class="band">
+      <h2>Capabilities</h2>
+      <ul class="tags">
+        <li>Cortex Agents</li><li>Cortex Analyst</li><li>Semantic Views</li>
+        <li>Cortex AI_COMPLETE</li><li>Streamlit in Snowflake</li><li>Snowflake SQL</li>
+      </ul>
+    </section>
+  </main>
+
+  <footer class="foot">
+    <div class="wrap">
+      <p><strong>Geographic Expansion &amp; Site Selection</strong> &middot; Owner: Javier Soliz &middot; Last reviewed: 2026-11</p>
+      <p>Apache 2.0. Illustrative example provided as-is, not an official Snowflake product, not supported by Snowflake Support. Contains no customer data. Review and test before any production use.</p>
+      <p><a href="try/">Try</a> &middot; <a href="https://github.com/sfc-gh-jsoliz/sfguide-site-selection">Repo</a> &middot; <a href="https://sfc-gh-ooral.github.io/snow-packs/">Snow Packs</a> &middot; <a href="https://docs.snowflake.com/en/user-guide/snowflake-cortex/aisql">Learn more</a></p>
+    </div>
+  </footer>
+</body>
+</html>
