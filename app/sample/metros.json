@@ -1,0 +1,112 @@
+[
+ {
+  "metro_id": "M01",
+  "metro_name": "New York-Newark",
+  "state": "NY",
+  "region": "Northeast",
+  "population": 8800000,
+  "median_hh_income": 76000,
+  "est_business_count": 210000,
+  "latitude": 40.71,
+  "longitude": -74.01
+ },
+ {
+  "metro_id": "M02",
+  "metro_name": "Los Angeles",
+  "state": "CA",
+  "region": "West",
+  "population": 3900000,
+  "median_hh_income": 69000,
+  "est_business_count": 145000,
+  "latitude": 34.05,
+  "longitude": -118.24
+ },
+ {
+  "metro_id": "M03",
+  "metro_name": "Chicago",
+  "state": "IL",
+  "region": "Midwest",
+  "population": 2700000,
+  "median_hh_income": 65000,
+  "est_business_count": 98000,
+  "latitude": 41.88,
+  "longitude": -87.63
+ },
+ {
+  "metro_id": "M04",
+  "metro_name": "Houston",
+  "state": "TX",
+  "region": "South",
+  "population": 2300000,
+  "median_hh_income": 58000,
+  "est_business_count": 82000,
+  "latitude": 29.76,
+  "longitude": -95.37
+ },
+ {
+  "metro_id": "M05",
+  "metro_name": "Phoenix",
+  "state": "AZ",
+  "region": "West",
+  "population": 1700000,
+  "median_hh_income": 64000,
+  "est_business_count": 61000,
+  "latitude": 33.45,
+  "longitude": -112.07
+ },
+ {
+  "metro_id": "M06",
+  "metro_name": "Philadelphia",
+  "state": "PA",
+  "region": "Northeast",
+  "population": 1600000,
+  "median_hh_income": 52000,
+  "est_business_count": 57000,
+  "latitude": 39.95,
+  "longitude": -75.17
+ },
+ {
+  "metro_id": "M07",
+  "metro_name": "Dallas",
+  "state": "TX",
+  "region": "South",
+  "population": 1340000,
+  "median_hh_income": 60000,
+  "est_business_count": 54000,
+  "latitude": 32.78,
+  "longitude": -96.8
+ },
+ {
+  "metro_id": "M08",
+  "metro_name": "Atlanta",
+  "state": "GA",
+  "region": "South",
+  "population": 500000,
+  "median_hh_income": 67000,
+  "est_business_count": 41000,
+  "latitude": 33.75,
+  "longitude": -84.39
+ },
+ {
+  "metro_id": "M09",
+  "metro_name": "Miami",
+  "state": "FL",
+  "region": "South",
+  "population": 470000,
+  "median_hh_income": 47000,
+  "est_business_count": 38000,
+  "latitude": 25.76,
+  "longitude": -80.19
+ },
+ {
+  "metro_id": "M10",
+  "metro_name": "Denver",
+  "state": "CO",
+  "region": "West",
+  "population": 715000,
+  "median_hh_income": 78000,
+  "est_business_count": 44000,
+  "latitude": 39.74,
+  "longitude": -104.99
+ }
+]

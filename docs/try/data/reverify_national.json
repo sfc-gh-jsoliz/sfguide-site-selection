@@ -1,0 +1,15 @@
+{
+ "verdict": {
+  "reason": "Draft contains hedge words ('likely', 'could', 'around') and unsupported forecast claims about future coverage and processed volume in the final sentence.",
+  "status": "needs_review",
+  "residual_hedges": 3,
+  "edits": [
+   "Remove 'likely' hedge in final sentence",
+   "Remove 'could' hedge in final sentence",
+   "Remove 'around' hedge in final sentence",
+   "Remove unsupported forecast claim 'Houston grocery will...double its coverage next year'",
+   "Remove unsupported claim about '$500M in processed volume'"
+  ]
+ },
+ "latency_ms": 3138
+}

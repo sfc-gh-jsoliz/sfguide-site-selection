@@ -1,0 +1,866 @@
+[
+ {
+  "category_code": "APPAREL",
+  "category_name": "Clothing & Accessories",
+  "month_end": "2024-07-31",
+  "market_sales_usd": 26000000000
+ },
+ {
+  "category_code": "APPAREL",
+  "category_name": "Clothing & Accessories",
+  "month_end": "2024-08-31",
+  "market_sales_usd": 25960649000
+ },
+ {
+  "category_code": "APPAREL",
+  "category_name": "Clothing & Accessories",
+  "month_end": "2024-09-30",
+  "market_sales_usd": 26190002800
+ },
+ {
+  "category_code": "APPAREL",
+  "category_name": "Clothing & Accessories",
+  "month_end": "2024-10-31",
+  "market_sales_usd": 26168415000
+ },
+ {
+  "category_code": "APPAREL",
+  "category_name": "Clothing & Accessories",
+  "month_end": "2024-11-30",
+  "market_sales_usd": 28548151632
+ },
+ {
+  "category_code": "APPAREL",
+  "category_name": "Clothing & Accessories",
+  "month_end": "2024-12-31",
+  "market_sales_usd": 28868654360
+ },
+ {
+  "category_code": "APPAREL",
+  "category_name": "Clothing & Accessories",
+  "month_end": "2025-01-31",
+  "market_sales_usd": 26401830000
+ },
+ {
+  "category_code": "APPAREL",
+  "category_name": "Clothing & Accessories",
+  "month_end": "2025-02-28",
+  "market_sales_usd": 26676075400
+ },
+ {
+  "category_code": "APPAREL",
+  "category_name": "Clothing & Accessories",
+  "month_end": "2025-03-31",
+  "market_sales_usd": 26544128000
+ },
+ {
+  "category_code": "APPAREL",
+  "category_name": "Clothing & Accessories",
+  "month_end": "2025-04-30",
+  "market_sales_usd": 26645925800
+ },
+ {
+  "category_code": "APPAREL",
+  "category_name": "Clothing & Accessories",
+  "month_end": "2025-05-31",
+  "market_sales_usd": 26702338000
+ },
+ {
+  "category_code": "APPAREL",
+  "category_name": "Clothing & Accessories",
+  "month_end": "2025-06-30",
+  "market_sales_usd": 26927830800
+ },
+ {
+  "category_code": "APPAREL",
+  "category_name": "Clothing & Accessories",
+  "month_end": "2025-07-31",
+  "market_sales_usd": 26936000000
+ },
+ {
+  "category_code": "APPAREL",
+  "category_name": "Clothing & Accessories",
+  "month_end": "2025-08-31",
+  "market_sales_usd": 27054521000
+ },
+ {
+  "category_code": "APPAREL",
+  "category_name": "Clothing & Accessories",
+  "month_end": "2025-09-30",
+  "market_sales_usd": 27213914000
+ },
+ {
+  "category_code": "APPAREL",
+  "category_name": "Clothing & Accessories",
+  "month_end": "2025-10-31",
+  "market_sales_usd": 27270529000
+ },
+ {
+  "category_code": "APPAREL",
+  "category_name": "Clothing & Accessories",
+  "month_end": "2025-11-30",
+  "market_sales_usd": 29688439872
+ },
+ {
+  "category_code": "APPAREL",
+  "category_name": "Clothing & Accessories",
+  "month_end": "2025-12-31",
+  "market_sales_usd": 29803211204
+ },
+ {
+  "category_code": "APPAREL",
+  "category_name": "Clothing & Accessories",
+  "month_end": "2026-01-31",
+  "market_sales_usd": 27486212000
+ },
+ {
+  "category_code": "APPAREL",
+  "category_name": "Clothing & Accessories",
+  "month_end": "2026-02-28",
+  "market_sales_usd": 27572690600
+ },
+ {
+  "category_code": "APPAREL",
+  "category_name": "Clothing & Accessories",
+  "month_end": "2026-03-31",
+  "market_sales_usd": 27477320000
+ },
+ {
+  "category_code": "APPAREL",
+  "category_name": "Clothing & Accessories",
+  "month_end": "2026-04-30",
+  "market_sales_usd": 27729205400
+ },
+ {
+  "category_code": "APPAREL",
+  "category_name": "Clothing & Accessories",
+  "month_end": "2026-05-31",
+  "market_sales_usd": 27757574000
+ },
+ {
+  "category_code": "APPAREL",
+  "category_name": "Clothing & Accessories",
+  "month_end": "2026-06-30",
+  "market_sales_usd": 27794000000
+ },
+ {
+  "category_code": "ELECTRONICS",
+  "category_name": "Electronics & Appliances",
+  "month_end": "2024-07-31",
+  "market_sales_usd": 8000000000
+ },
+ {
+  "category_code": "ELECTRONICS",
+  "category_name": "Electronics & Appliances",
+  "month_end": "2024-08-31",
+  "market_sales_usd": 8003174400
+ },
+ {
+  "category_code": "ELECTRONICS",
+  "category_name": "Electronics & Appliances",
+  "month_end": "2024-09-30",
+  "market_sales_usd": 8001478400
+ },
+ {
+  "category_code": "ELECTRONICS",
+  "category_name": "Electronics & Appliances",
+  "month_end": "2024-10-31",
+  "market_sales_usd": 8057657600
+ },
+ {
+  "category_code": "ELECTRONICS",
+  "category_name": "Electronics & Appliances",
+  "month_end": "2024-11-30",
+  "market_sales_usd": 9208588032
+ },
+ {
+  "category_code": "ELECTRONICS",
+  "category_name": "Electronics & Appliances",
+  "month_end": "2024-12-31",
+  "market_sales_usd": 9201067680
+ },
+ {
+  "category_code": "ELECTRONICS",
+  "category_name": "Electronics & Appliances",
+  "month_end": "2025-01-31",
+  "market_sales_usd": 8083046400
+ },
+ {
+  "category_code": "ELECTRONICS",
+  "category_name": "Electronics & Appliances",
+  "month_end": "2025-02-28",
+  "market_sales_usd": 8093342400
+ },
+ {
+  "category_code": "ELECTRONICS",
+  "category_name": "Electronics & Appliances",
+  "month_end": "2025-03-31",
+  "market_sales_usd": 8125561600
+ },
+ {
+  "category_code": "ELECTRONICS",
+  "category_name": "Electronics & Appliances",
+  "month_end": "2025-04-30",
+  "market_sales_usd": 8126083200
+ },
+ {
+  "category_code": "ELECTRONICS",
+  "category_name": "Electronics & Appliances",
+  "month_end": "2025-05-31",
+  "market_sales_usd": 8192640000
+ },
+ {
+  "category_code": "ELECTRONICS",
+  "category_name": "Electronics & Appliances",
+  "month_end": "2025-06-30",
+  "market_sales_usd": 8153107200
+ },
+ {
+  "category_code": "ELECTRONICS",
+  "category_name": "Electronics & Appliances",
+  "month_end": "2025-07-31",
+  "market_sales_usd": 8201830400
+ },
+ {
+  "category_code": "ELECTRONICS",
+  "category_name": "Electronics & Appliances",
+  "month_end": "2025-08-31",
+  "market_sales_usd": 8243294400
+ },
+ {
+  "category_code": "ELECTRONICS",
+  "category_name": "Electronics & Appliances",
+  "month_end": "2025-09-30",
+  "market_sales_usd": 8242915200
+ },
+ {
+  "category_code": "ELECTRONICS",
+  "category_name": "Electronics & Appliances",
+  "month_end": "2025-10-31",
+  "market_sales_usd": 8213632000
+ },
+ {
+  "category_code": "ELECTRONICS",
+  "category_name": "Electronics & Appliances",
+  "month_end": "2025-11-30",
+  "market_sales_usd": 9430663680
+ },
+ {
+  "category_code": "ELECTRONICS",
+  "category_name": "Electronics & Appliances",
+  "month_end": "2025-12-31",
+  "market_sales_usd": 9410276832
+ },
+ {
+  "category_code": "ELECTRONICS",
+  "category_name": "Electronics & Appliances",
+  "month_end": "2026-01-31",
+  "market_sales_usd": 8297116800
+ },
+ {
+  "category_code": "ELECTRONICS",
+  "category_name": "Electronics & Appliances",
+  "month_end": "2026-02-28",
+  "market_sales_usd": 8339707200
+ },
+ {
+  "category_code": "ELECTRONICS",
+  "category_name": "Electronics & Appliances",
+  "month_end": "2026-03-31",
+  "market_sales_usd": 8342464000
+ },
+ {
+  "category_code": "ELECTRONICS",
+  "category_name": "Electronics & Appliances",
+  "month_end": "2026-04-30",
+  "market_sales_usd": 8309324800
+ },
+ {
+  "category_code": "ELECTRONICS",
+  "category_name": "Electronics & Appliances",
+  "month_end": "2026-05-31",
+  "market_sales_usd": 8334460800
+ },
+ {
+  "category_code": "ELECTRONICS",
+  "category_name": "Electronics & Appliances",
+  "month_end": "2026-06-30",
+  "market_sales_usd": 8368000000
+ },
+ {
+  "category_code": "FURNITURE",
+  "category_name": "Furniture & Home Furnishings",
+  "month_end": "2024-07-31",
+  "market_sales_usd": 11000000000
+ },
+ {
+  "category_code": "FURNITURE",
+  "category_name": "Furniture & Home Furnishings",
+  "month_end": "2024-08-31",
+  "market_sales_usd": 11055000000
+ },
+ {
+  "category_code": "FURNITURE",
+  "category_name": "Furniture & Home Furnishings",
+  "month_end": "2024-09-30",
+  "market_sales_usd": 10958200000
+ },
+ {
+  "category_code": "FURNITURE",
+  "category_name": "Furniture & Home Furnishings",
+  "month_end": "2024-10-31",
+  "market_sales_usd": 11025300000
+ },
+ {
+  "category_code": "FURNITURE",
+  "category_name": "Furniture & Home Furnishings",
+  "month_end": "2024-11-30",
+  "market_sales_usd": 10987900000
+ },
+ {
+  "category_code": "FURNITURE",
+  "category_name": "Furniture & Home Furnishings",
+  "month_end": "2024-12-31",
+  "market_sales_usd": 10961500000
+ },
+ {
+  "category_code": "FURNITURE",
+  "category_name": "Furniture & Home Furnishings",
+  "month_end": "2025-01-31",
+  "market_sales_usd": 11014300000
+ },
+ {
+  "category_code": "FURNITURE",
+  "category_name": "Furniture & Home Furnishings",
+  "month_end": "2025-02-28",
+  "market_sales_usd": 11013200000
+ },
+ {
+  "category_code": "FURNITURE",
+  "category_name": "Furniture & Home Furnishings",
+  "month_end": "2025-03-31",
+  "market_sales_usd": 10996700000
+ },
+ {
+  "category_code": "FURNITURE",
+  "category_name": "Furniture & Home Furnishings",
+  "month_end": "2025-04-30",
+  "market_sales_usd": 11048400000
+ },
+ {
+  "category_code": "FURNITURE",
+  "category_name": "Furniture & Home Furnishings",
+  "month_end": "2025-05-31",
+  "market_sales_usd": 11040700000
+ },
+ {
+  "category_code": "FURNITURE",
+  "category_name": "Furniture & Home Furnishings",
+  "month_end": "2025-06-30",
+  "market_sales_usd": 10964800000
+ },
+ {
+  "category_code": "FURNITURE",
+  "category_name": "Furniture & Home Furnishings",
+  "month_end": "2025-07-31",
+  "market_sales_usd": 10990100000
+ },
+ {
+  "category_code": "FURNITURE",
+  "category_name": "Furniture & Home Furnishings",
+  "month_end": "2025-08-31",
+  "market_sales_usd": 10979100000
+ },
+ {
+  "category_code": "FURNITURE",
+  "category_name": "Furniture & Home Furnishings",
+  "month_end": "2025-09-30",
+  "market_sales_usd": 11013200000
+ },
+ {
+  "category_code": "FURNITURE",
+  "category_name": "Furniture & Home Furnishings",
+  "month_end": "2025-10-31",
+  "market_sales_usd": 10970300000
+ },
+ {
+  "category_code": "FURNITURE",
+  "category_name": "Furniture & Home Furnishings",
+  "month_end": "2025-11-30",
+  "market_sales_usd": 11014300000
+ },
+ {
+  "category_code": "FURNITURE",
+  "category_name": "Furniture & Home Furnishings",
+  "month_end": "2025-12-31",
+  "market_sales_usd": 11000000000
+ },
+ {
+  "category_code": "FURNITURE",
+  "category_name": "Furniture & Home Furnishings",
+  "month_end": "2026-01-31",
+  "market_sales_usd": 10981300000
+ },
+ {
+  "category_code": "FURNITURE",
+  "category_name": "Furniture & Home Furnishings",
+  "month_end": "2026-02-28",
+  "market_sales_usd": 11046200000
+ },
+ {
+  "category_code": "FURNITURE",
+  "category_name": "Furniture & Home Furnishings",
+  "month_end": "2026-03-31",
+  "market_sales_usd": 10949400000
+ },
+ {
+  "category_code": "FURNITURE",
+  "category_name": "Furniture & Home Furnishings",
+  "month_end": "2026-04-30",
+  "market_sales_usd": 10946100000
+ },
+ {
+  "category_code": "FURNITURE",
+  "category_name": "Furniture & Home Furnishings",
+  "month_end": "2026-05-31",
+  "market_sales_usd": 11001100000
+ },
+ {
+  "category_code": "FURNITURE",
+  "category_name": "Furniture & Home Furnishings",
+  "month_end": "2026-06-30",
+  "market_sales_usd": 11000000000
+ },
+ {
+  "category_code": "GROCERY",
+  "category_name": "Food & Beverage Stores",
+  "month_end": "2024-07-31",
+  "market_sales_usd": 85000000000
+ },
+ {
+  "category_code": "GROCERY",
+  "category_name": "Food & Beverage Stores",
+  "month_end": "2024-08-31",
+  "market_sales_usd": 85578879750
+ },
+ {
+  "category_code": "GROCERY",
+  "category_name": "Food & Beverage Stores",
+  "month_end": "2024-09-30",
+  "market_sales_usd": 85499128500
+ },
+ {
+  "category_code": "GROCERY",
+  "category_name": "Food & Beverage Stores",
+  "month_end": "2024-10-31",
+  "market_sales_usd": 86138885250
+ },
+ {
+  "category_code": "GROCERY",
+  "category_name": "Food & Beverage Stores",
+  "month_end": "2024-11-30",
+  "market_sales_usd": 86157921000
+ },
+ {
+  "category_code": "GROCERY",
+  "category_name": "Food & Beverage Stores",
+  "month_end": "2024-12-31",
+  "market_sales_usd": 87016795000
+ },
+ {
+  "category_code": "GROCERY",
+  "category_name": "Food & Beverage Stores",
+  "month_end": "2025-01-31",
+  "market_sales_usd": 87539426000
+ },
+ {
+  "category_code": "GROCERY",
+  "category_name": "Food & Beverage Stores",
+  "month_end": "2025-02-28",
+  "market_sales_usd": 87782713000
+ },
+ {
+  "category_code": "GROCERY",
+  "category_name": "Food & Beverage Stores",
+  "month_end": "2025-03-31",
+  "market_sales_usd": 88403434000
+ },
+ {
+  "category_code": "GROCERY",
+  "category_name": "Food & Beverage Stores",
+  "month_end": "2025-04-30",
+  "market_sales_usd": 88477877000
+ },
+ {
+  "category_code": "GROCERY",
+  "category_name": "Food & Beverage Stores",
+  "month_end": "2025-05-31",
+  "market_sales_usd": 88549642500
+ },
+ {
+  "category_code": "GROCERY",
+  "category_name": "Food & Beverage Stores",
+  "month_end": "2025-06-30",
+  "market_sales_usd": 88984481250
+ },
+ {
+  "category_code": "GROCERY",
+  "category_name": "Food & Beverage Stores",
+  "month_end": "2025-07-31",
+  "market_sales_usd": 89151009000
+ },
+ {
+  "category_code": "GROCERY",
+  "category_name": "Food & Beverage Stores",
+  "month_end": "2025-08-31",
+  "market_sales_usd": 90269409250
+ },
+ {
+  "category_code": "GROCERY",
+  "category_name": "Food & Beverage Stores",
+  "month_end": "2025-09-30",
+  "market_sales_usd": 90255609500
+ },
+ {
+  "category_code": "GROCERY",
+  "category_name": "Food & Beverage Stores",
+  "month_end": "2025-10-31",
+  "market_sales_usd": 90955270000
+ },
+ {
+  "category_code": "GROCERY",
+  "category_name": "Food & Beverage Stores",
+  "month_end": "2025-11-30",
+  "market_sales_usd": 91548264000
+ },
+ {
+  "category_code": "GROCERY",
+  "category_name": "Food & Beverage Stores",
+  "month_end": "2025-12-31",
+  "market_sales_usd": 91301194500
+ },
+ {
+  "category_code": "GROCERY",
+  "category_name": "Food & Beverage Stores",
+  "month_end": "2026-01-31",
+  "market_sales_usd": 92261728500
+ },
+ {
+  "category_code": "GROCERY",
+  "category_name": "Food & Beverage Stores",
+  "month_end": "2026-02-28",
+  "market_sales_usd": 92710384000
+ },
+ {
+  "category_code": "GROCERY",
+  "category_name": "Food & Beverage Stores",
+  "month_end": "2026-03-31",
+  "market_sales_usd": 93029865000
+ },
+ {
+  "category_code": "GROCERY",
+  "category_name": "Food & Beverage Stores",
+  "month_end": "2026-04-30",
+  "market_sales_usd": 93190655250
+ },
+ {
+  "category_code": "GROCERY",
+  "category_name": "Food & Beverage Stores",
+  "month_end": "2026-05-31",
+  "market_sales_usd": 93751294000
+ },
+ {
+  "category_code": "GROCERY",
+  "category_name": "Food & Beverage Stores",
+  "month_end": "2026-06-30",
+  "market_sales_usd": 93797500000
+ },
+ {
+  "category_code": "HEALTH",
+  "category_name": "Health & Personal Care",
+  "month_end": "2024-07-31",
+  "market_sales_usd": 38000000000
+ },
+ {
+  "category_code": "HEALTH",
+  "category_name": "Health & Personal Care",
+  "month_end": "2024-08-31",
+  "market_sales_usd": 37988223800
+ },
+ {
+  "category_code": "HEALTH",
+  "category_name": "Health & Personal Care",
+  "month_end": "2024-09-30",
+  "market_sales_usd": 38155366800
+ },
+ {
+  "category_code": "HEALTH",
+  "category_name": "Health & Personal Care",
+  "month_end": "2024-10-31",
+  "market_sales_usd": 38196300400
+ },
+ {
+  "category_code": "HEALTH",
+  "category_name": "Health & Personal Care",
+  "month_end": "2024-11-30",
+  "market_sales_usd": 38502147200
+ },
+ {
+  "category_code": "HEALTH",
+  "category_name": "Health & Personal Care",
+  "month_end": "2024-12-31",
+  "market_sales_usd": 38450433000
+ },
+ {
+  "category_code": "HEALTH",
+  "category_name": "Health & Personal Care",
+  "month_end": "2025-01-31",
+  "market_sales_usd": 38734289200
+ },
+ {
+  "category_code": "HEALTH",
+  "category_name": "Health & Personal Care",
+  "month_end": "2025-02-28",
+  "market_sales_usd": 38949312200
+ },
+ {
+  "category_code": "HEALTH",
+  "category_name": "Health & Personal Care",
+  "month_end": "2025-03-31",
+  "market_sales_usd": 38740787200
+ },
+ {
+  "category_code": "HEALTH",
+  "category_name": "Health & Personal Care",
+  "month_end": "2025-04-30",
+  "market_sales_usd": 39049415600
+ },
+ {
+  "category_code": "HEALTH",
+  "category_name": "Health & Personal Care",
+  "month_end": "2025-05-31",
+  "market_sales_usd": 39042150000
+ },
+ {
+  "category_code": "HEALTH",
+  "category_name": "Health & Personal Care",
+  "month_end": "2025-06-30",
+  "market_sales_usd": 39112685600
+ },
+ {
+  "category_code": "HEALTH",
+  "category_name": "Health & Personal Care",
+  "month_end": "2025-07-31",
+  "market_sales_usd": 39450672800
+ },
+ {
+  "category_code": "HEALTH",
+  "category_name": "Health & Personal Care",
+  "month_end": "2025-08-31",
+  "market_sales_usd": 39576756800
+ },
+ {
+  "category_code": "HEALTH",
+  "category_name": "Health & Personal Care",
+  "month_end": "2025-09-30",
+  "market_sales_usd": 39564323200
+ },
+ {
+  "category_code": "HEALTH",
+  "category_name": "Health & Personal Care",
+  "month_end": "2025-10-31",
+  "market_sales_usd": 39769565000
+ },
+ {
+  "category_code": "HEALTH",
+  "category_name": "Health & Personal Care",
+  "month_end": "2025-11-30",
+  "market_sales_usd": 39963384000
+ },
+ {
+  "category_code": "HEALTH",
+  "category_name": "Health & Personal Care",
+  "month_end": "2025-12-31",
+  "market_sales_usd": 40113727200
+ },
+ {
+  "category_code": "HEALTH",
+  "category_name": "Health & Personal Care",
+  "month_end": "2026-01-31",
+  "market_sales_usd": 39955875200
+ },
+ {
+  "category_code": "HEALTH",
+  "category_name": "Health & Personal Care",
+  "month_end": "2026-02-28",
+  "market_sales_usd": 39989269600
+ },
+ {
+  "category_code": "HEALTH",
+  "category_name": "Health & Personal Care",
+  "month_end": "2026-03-31",
+  "market_sales_usd": 40408896000
+ },
+ {
+  "category_code": "HEALTH",
+  "category_name": "Health & Personal Care",
+  "month_end": "2026-04-30",
+  "market_sales_usd": 40499024400
+ },
+ {
+  "category_code": "HEALTH",
+  "category_name": "Health & Personal Care",
+  "month_end": "2026-05-31",
+  "market_sales_usd": 40451288800
+ },
+ {
+  "category_code": "HEALTH",
+  "category_name": "Health & Personal Care",
+  "month_end": "2026-06-30",
+  "market_sales_usd": 40622000000
+ },
+ {
+  "category_code": "RESTAURANTS",
+  "category_name": "Restaurants & Food Service",
+  "month_end": "2024-07-31",
+  "market_sales_usd": 95000000000
+ },
+ {
+  "category_code": "RESTAURANTS",
+  "category_name": "Restaurants & Food Service",
+  "month_end": "2024-08-31",
+  "market_sales_usd": 95332310000
+ },
+ {
+  "category_code": "RESTAURANTS",
+  "category_name": "Restaurants & Food Service",
+  "month_end": "2024-09-30",
+  "market_sales_usd": 95424840000
+ },
+ {
+  "category_code": "RESTAURANTS",
+  "category_name": "Restaurants & Food Service",
+  "month_end": "2024-10-31",
+  "market_sales_usd": 96476490000
+ },
+ {
+  "category_code": "RESTAURANTS",
+  "category_name": "Restaurants & Food Service",
+  "month_end": "2024-11-30",
+  "market_sales_usd": 96095312000
+ },
+ {
+  "category_code": "RESTAURANTS",
+  "category_name": "Restaurants & Food Service",
+  "month_end": "2024-12-31",
+  "market_sales_usd": 96599610000
+ },
+ {
+  "category_code": "RESTAURANTS",
+  "category_name": "Restaurants & Food Service",
+  "month_end": "2025-01-31",
+  "market_sales_usd": 97289728000
+ },
+ {
+  "category_code": "RESTAURANTS",
+  "category_name": "Restaurants & Food Service",
+  "month_end": "2025-02-28",
+  "market_sales_usd": 97874852000
+ },
+ {
+  "category_code": "RESTAURANTS",
+  "category_name": "Restaurants & Food Service",
+  "month_end": "2025-03-31",
+  "market_sales_usd": 97687056000
+ },
+ {
+  "category_code": "RESTAURANTS",
+  "category_name": "Restaurants & Food Service",
+  "month_end": "2025-04-30",
+  "market_sales_usd": 98193634000
+ },
+ {
+  "category_code": "RESTAURANTS",
+  "category_name": "Restaurants & Food Service",
+  "month_end": "2025-05-31",
+  "market_sales_usd": 98711080000
+ },
+ {
+  "category_code": "RESTAURANTS",
+  "category_name": "Restaurants & Food Service",
+  "month_end": "2025-06-30",
+  "market_sales_usd": 99537048000
+ },
+ {
+  "category_code": "RESTAURANTS",
+  "category_name": "Restaurants & Food Service",
+  "month_end": "2025-07-31",
+  "market_sales_usd": 99201584000
+ },
+ {
+  "category_code": "RESTAURANTS",
+  "category_name": "Restaurants & Food Service",
+  "month_end": "2025-08-31",
+  "market_sales_usd": 100069922000
+ },
+ {
+  "category_code": "RESTAURANTS",
+  "category_name": "Restaurants & Food Service",
+  "month_end": "2025-09-30",
+  "market_sales_usd": 100661088000
+ },
+ {
+  "category_code": "RESTAURANTS",
+  "category_name": "Restaurants & Food Service",
+  "month_end": "2025-10-31",
+  "market_sales_usd": 100377760000
+ },
+ {
+  "category_code": "RESTAURANTS",
+  "category_name": "Restaurants & Food Service",
+  "month_end": "2025-11-30",
+  "market_sales_usd": 100796976000
+ },
+ {
+  "category_code": "RESTAURANTS",
+  "category_name": "Restaurants & Food Service",
+  "month_end": "2025-12-31",
+  "market_sales_usd": 101104890000
+ },
+ {
+  "category_code": "RESTAURANTS",
+  "category_name": "Restaurants & Food Service",
+  "month_end": "2026-01-31",
+  "market_sales_usd": 102308464000
+ },
+ {
+  "category_code": "RESTAURANTS",
+  "category_name": "Restaurants & Food Service",
+  "month_end": "2026-02-28",
+  "market_sales_usd": 101913340000
+ },
+ {
+  "category_code": "RESTAURANTS",
+  "category_name": "Restaurants & Food Service",
+  "month_end": "2026-03-31",
+  "market_sales_usd": 102292200000
+ },
+ {
+  "category_code": "RESTAURANTS",
+  "category_name": "Restaurants & Food Service",
+  "month_end": "2026-04-30",
+  "market_sales_usd": 103299238000
+ },
+ {
+  "category_code": "RESTAURANTS",
+  "category_name": "Restaurants & Food Service",
+  "month_end": "2026-05-31",
+  "market_sales_usd": 103773440000
+ },
+ {
+  "category_code": "RESTAURANTS",
+  "category_name": "Restaurants & Food Service",
+  "month_end": "2026-06-30",
+  "market_sales_usd": 103740000000
+ }
+]

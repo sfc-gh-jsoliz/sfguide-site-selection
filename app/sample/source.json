@@ -1,0 +1,4 @@
+{
+ "mode": "synthetic",
+ "note": "Fully synthetic: metro sizing, processor coverage and category demand. Run sql/setup_census.sql to swap in real US Census Advance Retail Sales demand (free Financial Data Package) -> mode = hybrid."
+}
