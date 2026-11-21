@@ -6,7 +6,7 @@
 --   app/streamlit_app.py           -> streamlit_app.py
 --   app/environment.yml            -> environment.yml
 --   app/.streamlit/config.toml     -> .streamlit/config.toml
---   app/static/*                   -> static/   (logo.svg, Figtree.woff2, OFL.txt, dotmap.json)
+--   app/static/*                   -> static/   (logo.svg, mark.svg, Figtree.woff2, OFL.txt, dotmap.json)
 --   app/sample/*.json (optional)   -> sample/   (adds the Sample switch in Snowsight)
 -- Upload with Snowsight (Data > Databases > SNOWPACK_SITE_SELECTION > CORE >
 -- Stages > SITE_SELECTION_APP_STAGE > + Files), or from a terminal with PUT, e.g.

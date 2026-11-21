@@ -1,0 +1,8 @@
+<svg viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Site Selection">
+  <rect width="32" height="32" rx="8" fill="#2E2A78"/>
+  <g fill="#8E88E8"><circle cx="9" cy="9" r="2"/><circle cx="16" cy="9" r="2"/><circle cx="23" cy="9" r="2"/>
+  <circle cx="9" cy="16" r="2"/><circle cx="16" cy="16" r="2"/><circle cx="23" cy="16" r="2"/>
+  <circle cx="9" cy="23" r="2"/><circle cx="16" cy="23" r="2"/></g>
+  <path d="M23 26.5c-3-3.4-4.6-5.9-4.6-7.8a4.6 4.6 0 0 1 9.2 0c0 1.9-1.6 4.4-4.6 7.8Z" fill="#F29A4A"/>
+  <circle cx="23" cy="18.7" r="1.7" fill="#2E2A78"/>
+</svg>

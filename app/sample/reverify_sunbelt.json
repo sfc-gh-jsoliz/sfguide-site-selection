@@ -1,0 +1,12 @@
+{
+ "verdict": {
+  "reason": "The final sentence contains unsupported forecast claims, a hedge word 'likely', a hedge word 'around', and a hedge word 'could'.",
+  "status": "needs_review",
+  "residual_hedges": 3,
+  "edits": [
+   "Remove unsupported forecast: 'Houston grocery will likely double its coverage next year'",
+   "Remove unsupported forecast: 'could add around $500M in processed volume'"
+  ]
+ },
+ "latency_ms": 3772
+}

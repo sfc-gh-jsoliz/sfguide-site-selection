@@ -1,0 +1,5 @@
+# Local run (Sample mode needs only these; Live mode adds key-pair env vars, see README)
+streamlit==1.52.2
+altair==5.5.0
+pandas==2.2.3
+snowflake-snowpark-python==1.42.0

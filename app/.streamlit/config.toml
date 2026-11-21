@@ -1,0 +1,29 @@
+# Geographic Expansion & Site Selection theme (tokens from docs/DESIGN.md)
+[server]
+enableStaticServing = true
+
+[client]
+toolbarMode = "minimal"
+
+[theme]
+base = "light"
+primaryColor = "#4F46C8"
+backgroundColor = "#F4F5FA"
+secondaryBackgroundColor = "#F8F8FC"
+textColor = "#16163A"
+linkColor = "#4F46C8"
+borderColor = "#DCDEEA"
+baseRadius = "10px"
+font = "-apple-system, 'Segoe UI', Roboto, sans-serif"
+headingFont = "Figtree, -apple-system, 'Segoe UI', sans-serif"
+chartCategoricalColors = ["#4F46C8", "#0E7C86", "#B34F12", "#7A6A1F", "#2E2A78", "#8A8CA6"]
+
+[[theme.fontFaces]]
+family = "Figtree"
+url = "app/static/Figtree.woff2"
+
+[theme.sidebar]
+backgroundColor = "#1C1A4A"
+textColor = "#C9C7F2"
+secondaryBackgroundColor = "#26235F"
+borderColor = "#34316F"
