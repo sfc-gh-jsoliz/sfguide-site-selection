@@ -1,11 +1,10 @@
 # v2 self-review
 
-Checked on the `v2-rebuild` branch, November 2026, against the Snow Packs build standard's
-"Before you call it done" list, the v2 addendum and every CONTRIBUTING Must. All results are from
-this build session. Live checks ran with key-pair auth in a test account; everything was removed
+Checked on the `v2-rebuild` branch, November 2026, against the Snow Packs v2 self-check and
+every CONTRIBUTING Must. Live checks ran with key-pair auth in a test account; everything was removed
 afterwards.
 
-## Build standard: before you call it done
+## Self-check before you call it done
 
 | Item | Result | Evidence |
 |---|---|---|
@@ -15,7 +14,7 @@ afterwards.
 | Open the Pages URL and `/try/` signed out; phone width and dark mode | Pass | Fork Pages (branch `v2-rebuild`, `/docs`) built; guide and all five `/try/` screens at 390 px and 1400 px, light and dark: no console errors, no horizontal scroll |
 | Story beats visible in a screenshot | Pass | Houston #1 and Phoenix #2 (overview, map, ranking, cell panel), Furniture zero row (overview heat map), Chicago saturated and New York biggest-pool-ranks-7th (overview panel), verifier catching a forecast (note-needs-review) |
 
-## v2 addendum
+## v2 requirements
 
 | Item | Result | Notes |
 |---|---|---|
