@@ -43,7 +43,8 @@ stories are listed in [`data/README.md`](data/README.md).
   `claude-sonnet-4-5`; change `MODEL` in `app/streamlit_app.py` if your account differs.
 - ACCOUNTADMIN (or USERADMIN + SECURITYADMIN) and SYSADMIN to run `sql/setup.sql`, which creates
   a least-privilege role, a database and an XSMALL warehouse.
-- To run the app locally: Python 3.11+ and `pip install -r app/requirements.txt`.
+- To run the app locally: Python 3.11+ and `pip install -r app/requirements.txt`. Tested with Python 3.12,
+  Streamlit 1.52.2, Altair 5.5.0 and Snowpark 1.42.0 in November 2026.
 - Optional, for real demand data: the free **Financial Data Package** listing from Snowflake
   Marketplace (`SNOWFLAKE_PUBLIC_DATA_FINANCIAL_PACKAGE`).
 
